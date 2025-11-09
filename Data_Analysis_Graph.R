@@ -5,7 +5,7 @@ if (!requireNamespace("fmsb", quietly = TRUE)) {
 library(fmsb)
 
 # Lecture du fichier CSV avec encodage approprié
-donnees <- read.csv("C:/Users/USER/Documents/FICHIERS_OMAR/FICHIERS/R_Skills/Agricole.csv", 
+donnees <- read.csv("C:/R_Skills/Agricole.csv", 
                     sep = ";", 
                     dec = ",", 
                     header = TRUE,
@@ -79,4 +79,5 @@ legend(
   pch = 20,
   bty = "n",
   cex = 0.8)
+
 
