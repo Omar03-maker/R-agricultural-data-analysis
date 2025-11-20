@@ -22,5 +22,5 @@ Les scripts génèrent des graphiques professionnels pour vos publications :
 - El Hadji Omar Dia
 - GitHub: @Omar03-maker
 
-# ⭐ Si vous trouver ce projet utile, n'hésitez pas à lui donner une étoile !
+# ⭐ Si vous trouvez ce projet utile, n'hésitez pas à lui donner une étoile !
 
