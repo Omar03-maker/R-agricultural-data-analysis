@@ -18,9 +18,10 @@ Les scripts génèrent des graphiques professionnels pour vos publications :
 - Barplots avec barres d'erreur
 - Graphiques de corrélation
 
-# 👤 Auteur : 
+# Auteur : 
 - El Hadji Omar Dia
 - GitHub: @Omar03-maker
+- Mail : elhadjiomardia@esp.sn
 
 # ⭐ Si vous trouvez ce projet utile, n'hésitez pas à lui donner une étoile !
 
